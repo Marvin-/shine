@@ -27,6 +27,7 @@ gem 'jbuilder', '~> 2.0'
 
 gem 'devise'
 gem 'bower-rails'
+gem 'haml-rails'
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
